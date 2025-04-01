@@ -1,0 +1,13 @@
+# Файлы Python
+train_drone.py
+
+# Виртуальное окружение Python
+venv/
+
+# Папки с моделями и логированием
+models/
+logs/
+eval/
+
+# Кэш Python
+__pycache__/
