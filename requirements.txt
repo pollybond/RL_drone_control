@@ -1,4 +1,7 @@
-gymnasium==0.29.1
-pymunk==6.5.0
-pygame==2.5.2
-numpy==1.26.0
+stable-baselines3[extra]
+gymnasium
+pygame
+pymunk
+matplotlib
+numpy
+torch
